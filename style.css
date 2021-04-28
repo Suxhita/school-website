@@ -1,36 +1,24 @@
-.thim-sc-text-box.style-4 .title-1 {
-    font-size: 62px;
-    line-height: normal;
-    letter-spacing: 1.2px;
-    text-transform: uppercase;
-    font-weight: 900;
-    margin-bottom: 15px;
+body {
+    scroll-behavior: smooth;
 }
 
-.thim-sc-text-box.style-4 .title-2 {
-    font-size: 20px;
+thim-sc-text-box.style-4 .title-2 {
+    font-size: 50px;
     line-height: 30px;
     letter-spacing: 0.4px;
     font-weight: 300;
     margin-bottom: 51px;
-}
-
-.The Velammal International School-School Building.jpg {
-    filter: blur(8px);
-    -webkit-filter: blur(15px);
-    height: 100%;
+    font-weight: bold;
+    text-shadow: 0px 3px 0px #b2a98f,
+        0px 14px 10px rgba(0, 0, 0, 0.15),
+        0px 24px 2px rgba(0, 0, 0, 0.1),
+        0px 34px 30px rgba(0, 0, 0, 0.1);
 }
 
 #Main_page {
-    background-image: url("https://cache.careers360.mobi/media/schools/social-media/media-gallery/16504/2019/8/26/The%20Velammal%20International%20School-School%20Building.jpg");
-    background-size: cover;
-    height: 100%;
+    color: aliceblue;
     width: 100%;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(to bottom, transparent 0%, black 100%);
+    height: 100%;
 }
 
 .travel_mainDiv {
@@ -69,24 +57,64 @@
 .movie_text span {
     color: #ff7700;
 }
-.environment_li
-{
-  margin-top: 13px;
+
+.news_li {
+    margin-top: 13px;
 }
 
-.environment_li h4
-{
+.news_li h4 {
     border-bottom: 1px solid white;
     padding: 8px;
 }
 
-.environment_li img
-{
-  border-radius: 25px;
+.news_li img {
+    border-radius: 25px;
 }
 
-.environment_li p
-{
-  margin-top:10px;
+.news_li p {
+    margin-top: 10px;
 }
 
+.thim-sc-text-box.style-4 .title-1 {
+    color: white;
+    font-size: 75px;
+    font-weight: 900 margin: 40px auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 90px;
+    color: #121212;
+    text-align: center;
+    letter-spacing: 5px;
+    margin: 40px auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 90px;
+    color: #121212;
+    text-align: center;
+    letter-spacing: 5px;
+    text-shadow: 0 2px 1px #747474,
+        -1px 3px 1px #767676,
+        -2px 5px 1px #787878,
+        -3px 7px 1px #7a7a7a,
+        -4px 9px 1px #7f7f7f,
+        -5px 11px 1px #838383,
+        -6px 13px 1px #878787,
+        -7px 15px 1px #8a8a8a,
+        -8px 17px 1px #8e8e8e,
+        -9px 19px 1px #949494,
+        -10px 21px 1px #989898,
+        -11px 23px 1px #9f9f9f,
+        -12px 25px 1px #a2a2a2,
+        -13px 27px 1px #a7a7a7,
+        -14px 29px 1px #adadad,
+        -15px 31px 1px #b3b3b3,
+        -16px 33px 1px #b6b6b6,
+        -17px 35px 1px #bcbcbc,
+        -18px 37px 1px #c2c2c2,
+        -19px 39px 1px #c8c8c8,
+        -20px 41px 1px #cbcbcb,
+        -21px 43px 1px #d2d2d2,
+        -22px 45px 1px #d5d5d5,
+        -23px 47px 1px #e2e2e2,
+        -24px 49px 1px #e6e6e6,
+        -25px 51px 1px #eaeaea,
+        -26px 53px 1px #efefef;
+}
